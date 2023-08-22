@@ -258,7 +258,7 @@ button:hover {
 }
 .features__container::before {
   bottom: 6rem;
-  right: 18rem;
+  right: 8rem;
 }
 .features__box {
   background-color: white;
