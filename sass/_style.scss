@@ -131,6 +131,7 @@ button {
 .section {
   &__features {
     padding: rem(120px) rem(190px);
+    padding-bottom: rem(200px);
 
     background-color: #f0f1f6;
   }
@@ -332,6 +333,7 @@ button {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     position: relative;
+    gap: rem(60px);
 
     &::after,
     &::before {
@@ -339,7 +341,7 @@ button {
       position: absolute;
       background-color: $cyan;
       height: 0.5rem;
-      width: 5rem;
+      width: 8rem;
     }
 
     &::after {
@@ -349,7 +351,7 @@ button {
 
     &::before {
       bottom: 6rem;
-      right: 22rem;
+      right: 18rem;
     }
   }
 

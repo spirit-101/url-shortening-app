@@ -91,6 +91,7 @@ button:hover {
 
 .section__features {
   padding: 7.5rem 11.875rem;
+  padding-bottom: 12.5rem;
   background-color: #f0f1f6;
 }
 .section__cta {
@@ -242,13 +243,14 @@ button:hover {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   position: relative;
+  gap: 3.75rem;
 }
 .features__container::after, .features__container::before {
   content: "";
   position: absolute;
   background-color: hsl(180, 66%, 49%);
   height: 0.5rem;
-  width: 5rem;
+  width: 8rem;
 }
 .features__container::after {
   bottom: 6rem;
@@ -256,7 +258,7 @@ button:hover {
 }
 .features__container::before {
   bottom: 6rem;
-  right: 22rem;
+  right: 18rem;
 }
 .features__box {
   background-color: white;
