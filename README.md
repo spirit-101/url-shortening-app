@@ -4,11 +4,11 @@
 
 <hr>
 
-🌐 [View the live site](https://spirit-101.github.io/intro-section-with-dropdown-menu/)
+🌐 [View the live site](https://spirit-101.github.io/url-shortening-app/)
 
 🧠 [Check out the solution](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-AgWuZK0mM5)
 
-📝 [View the challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5)
+📝 [View the challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
 
 ---
 
