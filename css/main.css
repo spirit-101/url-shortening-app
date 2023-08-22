@@ -250,7 +250,7 @@ button:hover {
   position: absolute;
   background-color: hsl(180, 66%, 49%);
   height: 0.5rem;
-  width: 8rem;
+  width: 26rem;
 }
 .features__container::after {
   bottom: 6rem;
