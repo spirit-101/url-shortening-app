@@ -106,7 +106,7 @@ button:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 3.125rem 7.5rem;
+  padding: 3.125rem 8.75rem;
   font-weight: 700;
 }
 
@@ -242,7 +242,7 @@ button:hover {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   position: relative;
-  gap: 1.25rem;
+  gap: 1.875rem;
 }
 .features__container::after, .features__container::before {
   content: "";
@@ -252,11 +252,11 @@ button:hover {
   width: 26rem;
 }
 .features__container::after {
-  bottom: 6rem;
+  bottom: 5rem;
   left: 20rem;
 }
 .features__container::before {
-  bottom: 6rem;
+  bottom: 7rem;
   right: 8rem;
 }
 .features__box {
@@ -271,10 +271,10 @@ button:hover {
   font-size: 0.9375rem;
 }
 .features__box:nth-of-type(2) {
-  transform: translateY(8%);
+  transform: translateY(12%);
 }
 .features__box:nth-of-type(3) {
-  transform: translateY(16%);
+  transform: translateY(24%);
 }
 .features__img-box {
   padding: 1.25rem;
