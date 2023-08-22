@@ -153,7 +153,7 @@ button {
   align-items: center;
   justify-content: space-between;
 
-  padding: rem(50px) rem(190px);
+  padding: rem(50px) rem(120px);
   font-weight: 700;
 }
 
@@ -172,7 +172,7 @@ button {
   &__btn-box {
     display: flex;
     gap: rem(36px);
-    padding-right: rem(40px);
+    // padding-right: rem(40px);
 
     &-login {
       color: inherit;
@@ -333,7 +333,7 @@ button {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     position: relative;
-    gap: rem(60px);
+    gap: rem(20px);
 
     &::after,
     &::before {
@@ -368,11 +368,11 @@ button {
     }
 
     &:nth-of-type(2) {
-      transform: translateY(15%);
+      transform: translateY(8%);
     }
 
     &:nth-of-type(3) {
-      transform: translateY(30%);
+      transform: translateY(16%);
     }
   }
 
