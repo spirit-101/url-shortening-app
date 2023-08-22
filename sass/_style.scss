@@ -341,7 +341,7 @@ button {
       position: absolute;
       background-color: $cyan;
       height: 0.5rem;
-      width: 26rem;
+      width: 20rem;
     }
 
     &::after {
@@ -409,7 +409,7 @@ button {
   display: grid;
   grid-template-columns: rem(400px) 1.5fr 1fr;
 
-  padding: rem(80px) rem(30px);
+  padding: rem(120px) rem(30px);
 
   background-color: $very-dark-violet;
 

@@ -249,7 +249,7 @@ button:hover {
   position: absolute;
   background-color: hsl(180, 66%, 49%);
   height: 0.5rem;
-  width: 26rem;
+  width: 20rem;
 }
 .features__container::after {
   bottom: 5rem;
@@ -298,7 +298,7 @@ button:hover {
 .footer {
   display: grid;
   grid-template-columns: 25rem 1.5fr 1fr;
-  padding: 5rem 1.875rem;
+  padding: 7.5rem 1.875rem;
   background-color: hsl(260, 8%, 14%);
 }
 .footer__logo-box {
