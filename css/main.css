@@ -119,6 +119,9 @@ button:hover {
   display: flex;
   gap: 2.125rem;
 }
+.nav__links a:hover {
+  text-decoration: underline;
+}
 .nav__btn-box {
   display: flex;
   gap: 2.25rem;
@@ -126,6 +129,10 @@ button:hover {
 .nav__btn-box-login {
   color: inherit;
   background-color: white;
+}
+.nav__btn-box-login:hover {
+  background-color: white;
+  text-decoration: underline;
 }
 .nav__btn-box-signup {
   font-weight: 400;

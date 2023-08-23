@@ -167,6 +167,12 @@ button {
   &__links {
     display: flex;
     gap: rem(34px);
+
+    & a {
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 
   &__btn-box {
@@ -177,6 +183,11 @@ button {
     &-login {
       color: inherit;
       background-color: white;
+
+      &:hover {
+        background-color: white;
+        text-decoration: underline;
+      }
     }
 
     &-signup {
